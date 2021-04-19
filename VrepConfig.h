@@ -1,0 +1,11 @@
+#ifndef VREPCONFIG_H
+#define VREPCONFIG_H
+
+#define DEFAULT_IMAGE_WIDTH (320)
+#define DEFAULT_IMAGE_HEIGHT (240)
+#define TICKS_PER_RAD (471.2/(2*M_PI))
+#define VREP_IP "127.0.0.1"
+#define CAMERA_PORT 32631
+#define VREP_PORT 32630
+
+#endif // VREPCONFIG_H
